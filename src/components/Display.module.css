@@ -1,0 +1,11 @@
+.display {
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+  text-align: right;
+  background-color: rgba(153, 205, 50, 0.589);
+}
+h1 {
+  text-align: center;
+  color: white;
+}
